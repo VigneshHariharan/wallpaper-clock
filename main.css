@@ -1,0 +1,61 @@
+
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url("lucas-clara-579404-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+font-family: 'Lato',
+sans-serif;
+   font-size : 2em;
+   font-weight : 400;
+   text-align: center;
+    color : rgb(255, 255, 255);
+    
+}
+
+h3{
+    font-family: 'Lato',
+    sans-serif;
+     font-weight: 400;
+   margin-top: 5%;
+}
+
+
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    background-color: transparent;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 2%;
+    z-index: 2;
+    
+}
+  
+
+#container{
+    width: 30%;
+    height: 20%;
+    box-shadow: 1px 1px;
+}
+#contain{
+    width: 10%;
+    height: 12%;
+    margin-top: 1%;
+    
+}
+
+#container:hover{
+   background-color: rgb(57, 98, 129);
+}
+
+#contain:hover{
+background-color: transparent;
+font-size: 50%;
+}
